@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Netflixx</string>
+    <string name="menu_menssagem">Menssagem</string>
+    <string name="menu_volume">Volume</string>
+    <string name="menu_avaliações">Avaliações</string>
+    <string name="menu_episodios">Episodios</string>
+    <string name="House_of_Card">House of Card</string>
+    <string name="temporadas">S1:E2</string>
+    <string name="Autor">Tiago Pinheiro de Oliveira Neto</string>
+</resources>
